@@ -11,5 +11,5 @@ Hi, I'm Kanak Raj (aka Kanaktronics), a Class 9 student exploring AI, Robotics, 
 ## 🎯 Goal
 To become a software engineer (IIT CSE) and build tools that make a real impact.  
 
-## 🏗️ Motto
+## ✍️Motto
 **Build early, fail fast, learn faster.**
